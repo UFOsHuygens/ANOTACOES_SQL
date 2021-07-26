@@ -1,1 +1,1 @@
-#### Pequeno lembrete de algumas operações CRUD em SQL
+#### Pequenas anotações de algumas operações CRUD em SQL
